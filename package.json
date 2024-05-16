@@ -1,7 +1,7 @@
 {
   "name": "js-variables-lab",
   "version": "0.1.0",
-  "description": "JavaScript Variables Lab for Learn.co",
+  "description": "JavaScript Variables Lab for Flatiron School",
   "main": "index.js",
   "scripts": {
     "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
@@ -19,7 +19,7 @@
     "const",
     "lab"
   ],
-  "author": "@jk",
+  "author": "Matteo Piccini",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/js-basics-variables-lab/issues"
